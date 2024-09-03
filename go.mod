@@ -1,4 +1,4 @@
-module github.com/lpongetti/formattime
+module github.com/lpongetti/format-time
 
 go 1.23.0
 
